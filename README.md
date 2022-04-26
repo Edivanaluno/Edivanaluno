@@ -1,0 +1,3 @@
+- 👋 Oii, eu sou @Edivan
+- 👀 Estou enteressado em aprender programação
+- 🌱 Atualmente aprendendo sobre cursos online
