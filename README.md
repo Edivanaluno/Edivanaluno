@@ -1,3 +1,4 @@
 - 👋 Oii, eu sou @Edivan
-- 👀 Estou enteressado em aprender programação
+- meu email é edivan.moreira.alves@escola.pr.gov.br
+-  👀 Estou enteressado em aprender programação
 - 🌱 Atualmente aprendendo sobre cursos online
